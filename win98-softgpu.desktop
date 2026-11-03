@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Windows 98 SoftGPU (qemu-3dfx)
+Comment=Windows 98 VM with JHRobotics qemu-3dfx (ICD signature matched), no-PnP BIOS, SoftGPU, NAS and home folder SMB shares
+Exec=/home/user/qemu-3dfx-vms/win98-softgpu/run.sh
+Icon=applications-games
+Type=Application
+Categories=Development;Emulator;
+Terminal=false
