@@ -3,6 +3,8 @@
 Complete, reproducible guide, configs, and scripts for running **Windows 98 SE** on **Arch Linux** with hardware-accelerated **OpenGL**, **DirectDraw / Direct3D (DX6–DX9)**, and **3dfx Glide** passthrough using the **JHRobotics ICD-enabled `qemu-3dfx`** fork, a **no-PnP-BIOS SeaBIOS** build, **SoftGPU**, **AC97 audio**, and **Samba 4 SMBv1 network shares** (local `/home/user` + Synology NAS).
 
 > **Everything you need is provided in this repository and its [GitHub Releases](https://github.com/gaijin213/Win98-on-Qemu3dfx/releases/tag/v1.0.0).** The launcher scripts (`install.sh`, `resume-tcg.sh`, `run.sh`), the no-PnP SeaBIOS (`bios-nopnp.bin`), the driver disc (`3dfx-ac97-drivers.iso`), and the desktop shortcut (`win98-softgpu.desktop`) are directly in the repo tree, while the large ISOs (`win98qi_v1.1.0_stock.iso`, `softgpu.iso`) and precompiled Arch Linux `qemu-system-i386` binary are attached to the [**v1.0.0 Release**](https://github.com/gaijin213/Win98-on-Qemu3dfx/releases/tag/v1.0.0).
+ <img width="1594" height="901" alt="image" src="https://github.com/user-attachments/assets/444c56a5-6372-4dc4-b486-380b096ead53" />
+
 
 ---
 
